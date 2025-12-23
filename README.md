@@ -6,9 +6,6 @@
 
 **AI Akademik Koç**, öğrencilerin demografik özelliklerini ve günlük alışkanlıklarını analiz ederek akademik başarı puanlarını tahmin eden ve kişiye özel, veriye dayalı gelişim tavsiyeleri sunan yapay zeka destekli bir web uygulamasıdır.
 
-![Proje Ekran Görüntüsü](1.png)
-*(Buraya 1.png görseli gelecek)*
-
 ## 🚀 Özellikler
 
 - **Başarı Tahmini:** Random Forest algoritması kullanarak öğrencinin sınav puanını (%90+ doğrulukla) tahmin eder.
